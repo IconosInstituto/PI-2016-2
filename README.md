@@ -13,3 +13,14 @@
 ---
 
 ## Calendario 
+
+-|-
+—|----
+1er. evaluación|Octubre 19
+2nda. evaluación|Noviembre 23
+Semana de ensayos|Diciembre 5-10
+Vacaciones|Diciembre 5 - Enero 1
+Semana retroalimentación|Enero 11
+Presentación|Enero 14
+
+
