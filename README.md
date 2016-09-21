@@ -14,8 +14,8 @@
 
 ## Calendario 
 
--|-
-—|----
+Concepto|Fecha
+--------|--------
 1er. evaluación|Octubre 19
 2nda. evaluación|Noviembre 23
 Semana de ensayos|Diciembre 5-10
