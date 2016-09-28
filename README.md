@@ -23,16 +23,16 @@
 
 | Alumno       |         s1         |  s2  |  s3  |  s4  |  s5  |  s6  |  s7  |  s8  |  s9  | s10  | s11  | s12  | s13  | s14  | s15  |
 | ------------ | :----------------: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| **Rafa**     |      :bowtie:      |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |
-| **Diana**    |     :laughing:     |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |
-| **Valeria**  |     :relieved:     |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |
-| **Cesar**    |       :wink:       |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |
-| **Adriana**  |     :grinning:     |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |
-| **Itzel**    |         -          |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |
-| **Jonathan** | :stuck_out_tongue: |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |
+| **Rafa**     |      :bowtie:      |  :laughing:   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |
+| **Diana**    |     :laughing:     |  :laughing:   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |
+| **Valeria**  |     :relieved:     |  :laughing:   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |
+| **Cesar**    |       :wink:       |  :laughing:   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |
+| **Adriana**  |     :grinning:     |  :laughing:   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |
+| **Itzel**    |         -          |  :laughing:   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |
+| **Jonathan** | :stuck_out_tongue: |  :laughing:   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |
 | **Alexis**   |     :frowning:     |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |
-| **Ian**      |    :grimacing:     |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |
-| **Octavio**  |         -          |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |
+| **Ian**      |    :grimacing:     |  :laughing:   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |
+| **Octavio**  |         -          |  :laughing:   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |  -   |
 
 ---
 
@@ -46,6 +46,16 @@
 
 <https://guides.github.com/features/mastering-markdown/>
 
-------
+---
 
-## 
+## Font Awesome
+
+Listado de iconos: <http://fontawesome.io/icons/>
+
+CDN: <https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css>
+
+---
+
+## CDN's
+
+<https://cdnjs.com/>
