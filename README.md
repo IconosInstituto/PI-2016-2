@@ -37,8 +37,8 @@
 
 ## ¿Cómo funciona Github?
 
-![¿Cómo funciona Github?](Mapa_github.png)
-
+![¿Cómo funciona Github?](universo_creativo/Mapa_github.png)
+[Ejemplo de link](http://google.com)
 ---
 
 ## Guía de Markdown para Github
