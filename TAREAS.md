@@ -13,3 +13,9 @@
 
 - Header:HERO >  Convertir en un sitio informativo sobre su proyecto.
 - Utilizar al menos 5 iconos.
+
+
+
+## Sesión 6
+
+* Utilizando el Framework Dw4 crear la portada del diseño en Figma.
