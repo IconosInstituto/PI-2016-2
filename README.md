@@ -21,17 +21,17 @@
 
 ## Asistencias
 
-| Alumno       |         s1         |     s2     |     s3     |   s4   |  s5  |         s6         |     s7      |  s8  |  s9  | s10  | s11  | s12  | s13  | s14  | s15  |
-| ------------ | :----------------: | :--------: | :--------: | :----: | :--: | :----------------: | :---------: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| **Rafa**     |      :bowtie:      | :laughing: | :relieved: | :wink: |  😀  | :stuck_out_tongue: | :grimacing: |      |  -   |  -   |  -   |  -   |  -   |  -   |  -   |
-| **Diana**    |     :laughing:     | :laughing: | :relieved: | :wink: |  😀  | :stuck_out_tongue: | :grimacing: |      |  -   |  -   |  -   |  -   |  -   |  -   |  -   |
-| **Valeria**  |     :relieved:     | :laughing: | :relieved: | :wink: |  😀  | :stuck_out_tongue: | :grimacing: |      |  -   |  -   |  -   |  -   |  -   |  -   |  -   |
-| **Cesar**    |       :wink:       | :laughing: | :relieved: | :wink: |  😀  | :stuck_out_tongue: | :grimacing: |      |  -   |  -   |  -   |  -   |  -   |  -   |  -   |
-| **Adriana**  |         😀         | :laughing: | :relieved: | :wink: |  😀  | :stuck_out_tongue: | :grimacing: |      |  -   |  -   |  -   |  -   |  -   |  -   |  -   |
-| **Itzel**    |         -          | :laughing: | :relieved: |   -    |  😀  | :stuck_out_tongue: | :grimacing: |      |  -   |  -   |  -   |  -   |  -   |  -   |  -   |
-| **Jonathan** | :stuck_out_tongue: | :laughing: | :relieved: | :wink: |  😀  | :stuck_out_tongue: | :grimacing: |      |  -   |  -   |  -   |  -   |  -   |  -   |  -   |
-| **Ian**      |    :grimacing:     | :laughing: | :relieved: | :wink: |  😀  |         -          | :grimacing: |      |  -   |  -   |  -   |  -   |  -   |  -   |  -   |
-| **Octavio**  |         -          | :laughing: | :relieved: | :wink: |  😀  | :stuck_out_tongue: | :grimacing: |      |  -   |  -   |  -   |  -   |  -   |  -   |  -   |
+| Alumno       |         s1         |     s2     |     s3     |   s4   |  s5  |         s6         |     s7      |     s8     |  s9  | s10  | s11  | s12  | s13  | s14  | s15  |
+| ------------ | :----------------: | :--------: | :--------: | :----: | :--: | :----------------: | :---------: | :--------: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| **Rafa**     |      :bowtie:      | :laughing: | :relieved: | :wink: |  😀  | :stuck_out_tongue: | :grimacing: | :laughing: |  -   |  -   |  -   |  -   |  -   |  -   |  -   |
+| **Diana**    |     :laughing:     | :laughing: | :relieved: | :wink: |  😀  | :stuck_out_tongue: | :grimacing: | :laughing: |  -   |  -   |  -   |  -   |  -   |  -   |  -   |
+| **Valeria**  |     :relieved:     | :laughing: | :relieved: | :wink: |  😀  | :stuck_out_tongue: | :grimacing: | :laughing: |  -   |  -   |  -   |  -   |  -   |  -   |  -   |
+| **Cesar**    |       :wink:       | :laughing: | :relieved: | :wink: |  😀  | :stuck_out_tongue: | :grimacing: | :laughing: |  -   |  -   |  -   |  -   |  -   |  -   |  -   |
+| **Adriana**  |         😀         | :laughing: | :relieved: | :wink: |  😀  | :stuck_out_tongue: | :grimacing: | :laughing: |  -   |  -   |  -   |  -   |  -   |  -   |  -   |
+| **Itzel**    |         -          | :laughing: | :relieved: |   -    |  😀  | :stuck_out_tongue: | :grimacing: | :laughing: |  -   |  -   |  -   |  -   |  -   |  -   |  -   |
+| **Jonathan** | :stuck_out_tongue: | :laughing: | :relieved: | :wink: |  😀  | :stuck_out_tongue: | :grimacing: | :laughing: |  -   |  -   |  -   |  -   |  -   |  -   |  -   |
+| **Ian**      |    :grimacing:     | :laughing: | :relieved: | :wink: |  😀  |         -          | :grimacing: | :laughing: |  -   |  -   |  -   |  -   |  -   |  -   |  -   |
+| **Octavio**  |         -          | :laughing: | :relieved: | :wink: |  😀  | :stuck_out_tongue: | :grimacing: | :laughing: |  -   |  -   |  -   |  -   |  -   |  -   |  -   |
 
 ---
 
