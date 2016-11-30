@@ -10,8 +10,8 @@
 
 | Concepto                 | Fecha                 |
 | ------------------------ | --------------------- |
-| 1er. evaluación          | Octubre 19            |
-| 2nda. evaluación         | Noviembre 23          |
+| ~~1er. evaluación~~      | ~~Octubre 19~~        |
+| ~~2nda. evaluación~~     | ~~Noviembre 23~~      |
 | Semana de ensayos        | Diciembre 5-10        |
 | Vacaciones               | Diciembre 5 - Enero 1 |
 | Semana retroalimentación | Enero 11              |
@@ -26,7 +26,7 @@
 | **Rafa**     |      :bowtie:      | :laughing: | :relieved: | :wink: |  😀  | :stuck_out_tongue: | :grimacing: | :laughing: | :relieved: | :wink: |  😀  |  -   |  -   |  -   |  -   |
 | **Diana**    |     :laughing:     | :laughing: | :relieved: | :wink: |  😀  | :stuck_out_tongue: | :grimacing: | :laughing: | :relieved: | :wink: |  😀  |  -   |  -   |  -   |  -   |
 | **Valeria**  |     :relieved:     | :laughing: | :relieved: | :wink: |  😀  | :stuck_out_tongue: | :grimacing: | :laughing: | :relieved: | :wink: |  😀  |  -   |  -   |  -   |  -   |
-| **Cesar**    |       :wink:       | :laughing: | :relieved: | :wink: |  😀  | :stuck_out_tongue: | :grimacing: | :laughing: | :relieved: | :wink: |  😀  |  -   |  -   |  -   |  -   |
+| **César**    |       :wink:       | :laughing: | :relieved: | :wink: |  😀  | :stuck_out_tongue: | :grimacing: | :laughing: | :relieved: | :wink: |  😀  |  -   |  -   |  -   |  -   |
 | **Adriana**  |         😀         | :laughing: | :relieved: | :wink: |  😀  | :stuck_out_tongue: | :grimacing: | :laughing: | :relieved: | :wink: |  😀  |  -   |  -   |  -   |  -   |
 | **Itzel**    |         -          | :laughing: | :relieved: |   -    |  😀  | :stuck_out_tongue: | :grimacing: | :laughing: | :relieved: | :wink: |  😀  |  -   |  -   |  -   |  -   |
 | **Jonathan** | :stuck_out_tongue: | :laughing: | :relieved: | :wink: |  😀  | :stuck_out_tongue: | :grimacing: | :laughing: | :relieved: | :wink: |  😀  |  -   |  -   |  -   |  -   |
@@ -35,9 +35,33 @@
 
 ---
 
+## Repositorios
+
+
+
+| Alumno   | Repositorio                              | Sitio en vivo                            |
+| -------- | ---------------------------------------- | ---------------------------------------- |
+| Rafa     | https://github.com/IconosInstituto/Hambre-RafaelMitre29 |                                          |
+| Diana    | https://github.com/IconosInstituto/PobrezaDiana | https://diana99hd.github.io/Sitiomuseomiseria.github.io/ |
+| Valeria  | https://github.com/IconosInstituto/alimentos-Valeria | https://iconosinstituto.github.io/alimentos-Valeria/webeee/ |
+| César    | https://github.com/IconosInstituto/contaminacion | https://cxrbrnrd.github.io/sitio_proyecto/ |
+| Adriana  | https://github.com/IconosInstituto/Derechos-humanos-Adriana |                                          |
+| Itzel    | https://github.com/IconosInstituto/MUSEODELAPOBLACION | https://iconosinstituto.github.io/MUSEODELAPOBLACION/ |
+| Jonathan | https://github.com/IconosInstituto/La-Migraci-n-de-Jonhy/tree/master/migracion |                                          |
+| Ian      | https://github.com/IconosInstituto/IanPobreza |                                          |
+| Octavio  |                                          |                                          |
+
+
+
+---
+
+
+
+
+
 ## ¿Cómo funciona Github?
 
-![¿Cómo funciona Github?](Mapa_github.png)
+![¿Cómo funciona Github?](mapa_github.png)
 
 ---
 
@@ -74,3 +98,8 @@ CDN: <https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome
 ## EMMET
 
 Sintáxis : <http://codepen.io/ealbinu/pen/KNPXyW>
+
+## Uso de Mediaqueries
+
+Ejemplo de código: <https://gist.github.com/ealbinu/6fc4a019b8f5c148a5c886cf75c800e3>
+
