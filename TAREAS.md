@@ -20,6 +20,6 @@
 
 * Utilizando el Framework Dw4 crear la portada del diseño en Figma.
 
-## Sesión 8
+## Sesión 8fa
 
 ![Entrega Martes 15 8pm](sesion8.png)
