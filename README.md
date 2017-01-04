@@ -4,18 +4,28 @@
 
 **Proyecto Integrador 2017-1 [Septiembre - Enero]**
 
+
+
+---
+
+INFORMACIÓN DE ENTREGA
+
+
+
+![Entregas](entregas.png)
+
 ---
 
 ## Calendario del cuatrimestre 
 
-| Concepto                 | Fecha                 |
-| ------------------------ | --------------------- |
-| ~~1er. evaluación~~      | ~~Octubre 19~~        |
-| ~~2nda. evaluación~~     | ~~Noviembre 23~~      |
-| Semana de ensayos        | Diciembre 5-10        |
-| Vacaciones               | Diciembre 5 - Enero 1 |
-| Semana retroalimentación | Enero 11              |
-| Presentación             | Enero 14              |
+| Concepto                 | Fecha                     |
+| ------------------------ | ------------------------- |
+| ~~1er. evaluación~~      | ~~Octubre 19~~            |
+| ~~2nda. evaluación~~     | ~~Noviembre 23~~          |
+| Semana de ensayos        | ~~Diciembre 5-10~~        |
+| Vacaciones               | ~~Diciembre 5 - Enero 1~~ |
+| Semana retroalimentación | Enero 11                  |
+| Presentación             | Enero 14                  |
 
 ---
 
@@ -47,7 +57,7 @@
 | César    | https://github.com/IconosInstituto/contaminacion | https://cxrbrnrd.github.io/sitio_proyecto/ |
 | Adriana  | https://github.com/IconosInstituto/Derechos-humanos-Adriana |                                          |
 | Itzel    | https://github.com/IconosInstituto/MUSEODELAPOBLACION | https://iconosinstituto.github.io/MUSEODELAPOBLACION/ |
-| Jonathan | https://github.com/IconosInstituto/La-Migraci-n-de-Jonhy/tree/master/migracion |                                          |
+| Jonathan | https://github.com/IconosInstituto/fronteras | https://iconosinstituto.github.io/fronteras/ |
 | Ian      | https://github.com/IconosInstituto/IanPobreza |                                          |
 | Octavio  |                                          |                                          |
 
